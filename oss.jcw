@@ -1,0 +1,14 @@
+! ** JCreator Workspace File (C)2000
+! ********** DO NOT EDIT *********
+
+VERSION := "1.00"
+LABEL := "oss"
+
+! Start Project Structure
+#[BeginProject]SOURCE := "oss.jcp" #[EndProject]
+
+! Start Last Document Structure
+#[BeginFile]SOURCE := "oss.java" #[EndFile]
+
+! Start Breakpoint Structure
+
